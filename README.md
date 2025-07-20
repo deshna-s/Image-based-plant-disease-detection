@@ -858,8 +858,8 @@ EXPERIMENTAL_SETUP = {
 **Research Author**: Deshna S  
 **GitHub**: [github.com/deshna-s](https://github.com/deshna-s)  
 **Research Publication**: [ResearchGate Profile](https://www.researchgate.net/publication/358336121_Image-Based_Plant_Disease_Detection)  
-**LinkedIn**: [Professional Profile]()  
-**Email**: [academic email]  
+**LinkedIn**: [Professional Profile](https://www.linkedin.com/in/deshna-shah-48031a147/)  
+**Email**: deshnashah5608@gmail.com  
 
 ### Collaboration Opportunities
 - **Academic Research**: Joint research projects and publications
@@ -869,4 +869,4 @@ EXPERIMENTAL_SETUP = {
 
 ---
 
-*This Image-Based Plant Disease Detection system represents cutting-edge application of deep learning to agricultural challenges, demonstrating expertise in computer vision, model optimization, and real-world deployment. The research-backed approach and production-ready implementation showcase comprehensive AI/ML engineering capabilities with measurable impact on sustainable agriculture.*
+*This Image-Based Plant Disease Detection system represents a cutting-edge application of deep learning to agricultural challenges, demonstrating expertise in computer vision, model optimization, and real-world deployment. The research-backed approach and production-ready implementation showcase comprehensive AI/ML engineering capabilities with a measurable impact on sustainable agriculture.*
